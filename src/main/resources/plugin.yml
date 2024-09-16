@@ -1,0 +1,7 @@
+name: SurvivalPrivate
+version: '1.0-SNAPSHOT'
+main: io.volqe.Private
+api-version: '1.20'
+authors: [ volqe ]
+description: lobbysystem
+website: https://volqe.io
